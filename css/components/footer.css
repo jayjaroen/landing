@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #2c2b2b;
+}
+
+/* .fab {
+  font-family: "Font Awesome 5 Brands";
+}
+
+.fa-facebook-f:before {
+  content: "\f39e";
+} */
+
+.footer p{
+  color: rgb(219, 119, 119);
+
+}
